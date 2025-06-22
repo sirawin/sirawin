@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sirawin Niranartlumpong (Pan)
+## Hi, I'm Sirawin Niranartlumpong (Pan) 👋
 
 🔭 I’m currently working on [Digital music store Multi-agent assistant built using Langgraph and Langsmith]([link])
 
@@ -6,8 +6,17 @@
 
 📄 Know about my experiences [[resume link]]([resume link])
 
-## Fun fact **I love bloudering, table tennis**
+## Fun fact 
+I love bloudering, table tennis
 📫 How to reach me **sirawin18@gmail.com**
 
 ## 🛠 Tech Stack
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Polars-FFD43B?style=for-the-badge&logo=polars&logoColor=black" alt="Polars">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PyTorch_Lightning-7F20B2?style=for-the-badge&logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21C?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-224422?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"> </div>
+</div>
