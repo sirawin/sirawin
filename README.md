@@ -5,13 +5,13 @@ I'm a second-year business student at Chulalongkorn University.
 
 ## I’m currently working on
 
-[Digital music store Multi-agent assistant]([link])
+[Music store retrieval agents on structured databases](https://github.com/sirawin/music-store-agent.git)
 
 📄 My Experiences -> [[resume link]]([resume link])
 
 
 ## Fun fact 
-I love well-designed product, bloudering, table tennis.
+I love well-designed product, bloudering, and table tennis.
 
 
 ## 🛠 Tech Stack
