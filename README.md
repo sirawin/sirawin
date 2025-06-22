@@ -1,22 +1,26 @@
 ## Hi, I'm Sirawin Niranartlumpong (Pan) 👋
+I'm a second-year business student at Chulalongkorn University.
 
-🔭 I’m currently working on [Digital music store Multi-agent assistant built using Langgraph and Langsmith]([link])
+**My mission**: Building products that make a real difference in people's lives.
 
-🌱 I’m currently learning **Langgraph, MLOps, and system design**
+## I’m currently working on
 
-📄 Know about my experiences [[resume link]]([resume link])
+[Digital music store Multi-agent assistant]([link])
+
+📄 My Experiences -> [[resume link]]([resume link])
+
 
 ## Fun fact 
-I love bloudering, table tennis
-📫 How to reach me **sirawin18@gmail.com**
+I love well-designed product, bloudering, table tennis.
+
 
 ## 🛠 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Polars-FFD43B?style=for-the-badge&logo=polars&logoColor=black" alt="Polars">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PyTorch_Lightning-7F20B2?style=for-the-badge&logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21C?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/LangChain-224422?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"> </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="35" height="35"/> 
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://github.com/pola-rs/polars-static/blob/master/logos/polars_logo_blue.svg" alt="Polars" width="40" height="40"/>
+  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" alt="langchain" width="120" height="40">
 </div>
