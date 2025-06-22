@@ -10,8 +10,8 @@ My ongoing project: [Music store retrieval agents on structured databases](https
 📄 My Experiences -> [[resume link]]([resume link])
 
 
-## Fun fact 
-I love well-designed product, bloudering, and table tennis.
+## Things I love:
+Aesthetically-pleasing product, bloudering, and table tennis.
 
 
 ## 🛠 Tech Stack
