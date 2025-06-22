@@ -3,9 +3,9 @@ I'm a second-year business student at Chulalongkorn University.
 
 **My mission**: Building products that make a real difference in people's lives.
 
-## I’m currently working on
+## I’m currently interested in building personalized agent
 
-[Music store retrieval agents on structured databases](https://github.com/sirawin/music-store-agent.git)
+My ongoing project: [Music store retrieval agents on structured databases](https://github.com/sirawin/music-store-agent.git)
 
 📄 My Experiences -> [[resume link]]([resume link])
 
