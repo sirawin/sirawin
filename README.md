@@ -1,8 +1,6 @@
 ## Hi, I'm Sirawin Niranartlumpong (Pan) 👋
 I'm a second-year business student at Chulalongkorn University.
 
-**My mission**: Building products that make a real difference in people's lives.
-
 ## I’m currently interested in building personalized agent
 
 My ongoing project: [Music store retrieval agents on structured databases](https://github.com/sirawin/music-store-agent.git)
