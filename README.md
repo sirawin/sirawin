@@ -1,9 +1,9 @@
 ## Hi, I'm Sirawin Niranartlumpong (Pan) 👋
-I'm a second-year business student at Chulalongkorn University. I am passionate in AI and psychology - understanding people behavior both through interviewing and data analysis.
+I'm a second-year business student at Chulalongkorn University. I am interested in AI and psychology
 
 ## I’m currently interested in building personalized agent
 
-My ongoing project: [Music store retrieval agents on structured databases](https://github.com/sirawin/music-store-agent.git)
+My ongoing project: [Leadership Simulation](https://github.com/sirawin/leadership-simulation-mvp)
 
 📄 My Experiences -> [my CV](https://drive.google.com/file/d/1MCU4ljLcZRh2hALH2wEvcY3RcgLbQCR3/view?usp=drive_link)
 
